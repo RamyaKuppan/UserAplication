@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="base_url">http://104.154.30.1:8080/</string>
+    <string name="register_url">Dialogue/api/user</string>
+    <string name="login_url">Dialogue/api/user/signin</string>
+</resources>
